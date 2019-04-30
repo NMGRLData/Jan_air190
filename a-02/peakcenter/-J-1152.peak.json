@@ -1,0 +1,54 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuc174PrlNAu6VQvfkkEUC7rcq+ByFJQLu2Q75D7r1Au769vZeq0EC7xza7kM7PQLvPsL3TZqpAu9gpPg46EkC74KM+Nhe9QLvpHD4IagVAu/GVPlsbhEC7+g8+dCcOQLwCiD5rvXNAvAsCPpc7TEC8E3s+WSH4QLwb9T4ptsRAvCRuPpKiaUC8LOg+hYFXQLw1YT7ToSdAvD3bPje40UC8RlQ+LgS1QLxOzj3vDLBAvFdHPepqJkC8X8E9KmCOQLxoOr24bs1AvHCzvI9o0UC8eS2+F3WUQLyBpr42rGNAvIogvbn520C8kpm+BcCX",
+        "resolution": null
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuc1wAAAABAu6VQAAAAAEC7rco5nvQ3QLu2QzrGsUZAu769O2R/EkC7xzY8KOOCQLvPsDxiA0tAu9gpPOIDWEC74KM9bw2AQLvpHD4XgSFAu/GVPqyyAkC7+g8++443QLwCiD8R16dAvAsCPxVV1UC8E3s/FOiLQLwb9T8YKx1AvCRuPxO+e0C8LOg/FaVQQLw1YT8WWCdAvD3bPxMVlUC8RlQ/ErwqQLxOzj8L+2tAvFdHPwSvlUC8X8E+5yRLQLxoOj6aiGtAvHCzPgS4sEC8eS09INEuQLyBpjwLFbVAvIogOm5uU0C8kpkAAAAA",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.877775144940452,
+        "center_signal": 183.77210443229072,
+        "high_dac": 5.885620836323217,
+        "high_resolving_power": 1239.3923195464931,
+        "high_signal": 136.71717523653172,
+        "low_dac": 5.8699294535576865,
+        "low_resolving_power": 1319.209368164666,
+        "low_signal": 135.61206533668195,
+        "points": "QLuc1z99UotAu6VQPrvyIEC7rco/gXIcQLu2Q0BPWn9Au769QT0EkEC7xzZCDZWkQLvPsEKgl71Au9gpQxMZ9kC74KNDLWs/QLvpHEM1ysZAu/GVQzez0EC7+g9DN6LxQLwCiEM3pgZAvAsCQze1wUC8E3tDN6JXQLwb9UM3xadAvCRuQzeZAUC8LOhDN4KHQLw1YUM3EU9AvD3bQzX/tEC8RlRDMpBpQLxOzkMm0mNAvFdHQwdNxkC8X8FCpSUjQLxoOkIMUVZAvHCzQSEZs0C8eS0/8GRAQLyBpj6PZEhAvIogvLaWxkC8kpk9ujqc",
+        "resolution": 266.3978017552562
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuc174Kng1Au6VQvYnfYUC7rcq9vALnQLu2Q72MQ81Au769vZz2qUC7xza9hgRaQLvPsL1iyApAu9gpvgNhZUC74KO9odE3QLvpHL24tsxAu/GVvZtQi0C7+g++OotPQLwCiDwSJ/JAvAsCvasDcUC8E3u7hv1mQLwb9b2XQBhAvCRuvYcV3kC8LOg9iPJbQLw1YTyPL/FAvD3bvd4w8EC8RlS8+7kFQLxOzjtBYY1AvFdHvS9xHEC8X8E8ZgZ4QLxoOr3Tq9dAvHCzvU33tkC8eS28UPuqQLyBpr4epBtAvIogvg9+9EC8kpm9Qt0H",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
