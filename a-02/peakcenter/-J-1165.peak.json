@@ -1,0 +1,54 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLucmL2fdJtAu6URvjaE4kC7rYu9wQbnQLu2BL4IY5NAu75+vmCR10C7xve90YaVQLvPcT20KJJAu9fqPSToykC74GQ+X+z3QLvo3T4ZL/5Au/FXPmau8EC7+dA+kNOaQLwCST7As/tAvArDPocg20C8Ezw+vz0gQLwbtj5FWfBAvCQvPl5kFUC8LKk+ciQ+QLw1Ij6C9GhAvD2cPpZdAUC8RhU+mWQAQLxOjz5TmeNAvFcIPjlsLEC8X4K9KujfQLxn+73g1hdAvHB1viKPyUC8eO69tX0oQLyBZ75oAm1AvInhvjg9iUC8klq+T3IE",
+        "resolution": null
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLucmAAAAABAu6UROZ70N0C7rYs57m5TQLu2BDraj81Au75+O5UE9kC7xvc8A6JCQLvPcTw/PdtAu9fqPPDqQUC74GQ9deICQLvo3T4VVMdAu/FXPqKHCEC7+dA+99RvQLwCST8Qo6hAvArDPxCtl0C8Ezw/EljPQLwbtj8VGjhAvCQvPxFCn0C8LKk/Ex+EQLw1Ij8UF+ZAvD2cPwzMD0C8RhU/DNX+QLxOjz8KCqdAvFcIPwJHmUC8X4I+6bQEQLxn+z6kAJBAvHB1PgNTCUC8eO49FkLzQLyBZzwGHhNAvInhOe5uU0C8klo5nvQ3",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.8777752052373575,
+        "center_signal": 183.11717728823257,
+        "high_dac": 5.885530716259402,
+        "high_resolving_power": 1379.0492147480527,
+        "high_signal": 136.94652493314962,
+        "low_dac": 5.870019694215314,
+        "low_resolving_power": 1267.8246006118995,
+        "low_signal": 135.0233315519786,
+        "points": "QLucmD4l5c9Au6URPr0VKUC7rYs/aRpvQLu2BEBEqSdAu75+QTc6u0C7xvdCEPI4QLvPcUKslDpAu9fqQwrLcEC74GRDKbb9QLvo3UM0fAxAu/FXQzatfEC7+dBDNx1zQLwCSUM2vupAvArDQzbIFUC8EzxDNwOmQLwbtkM21LdAvCQvQzbGzUC8LKlDNrFtQLw1IkM2S5ZAvD2cQzXi8UC8RhVDMy9gQLxOj0MqHA1AvFcIQwR8NkC8X4JCmnRnQLxn+0Hvb7lAvHB1QPwLKkC8eO4/rt48QLyBZz6nVAJAvInhPUkcNUC8klq8qfyM",
+        "resolution": 268.5878962832943
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLucmL2/45pAu6URvaN3UkC7rYs9aqJoQLu2BDzNZfRAu75+PCSQ40C7xve9YnTJQLvPcb4Uzc9Au9fqvbiBTEC74GS9XrFtQLvo3bz1xkhAu/FXvQBHHkC7+dC9ZsbbQLwCSTydCuJAvArDPLo92EC8Ezy8k7c4QLwbtj08H8VAvCQvvgizZUC8LKk9O/wNQLw1Ir2rPuRAvD2cPNjt/0C8RhW91jmiQLxOjzoygONAvFcIvZgn+EC8X4K84tB6QLxn+zyDGVpAvHB1vbobd0C8eO69k6x7QLyBZ73+NflAvInhPY2fLkC8klq+DzSe",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
