@@ -1,0 +1,54 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuYK73r35hAu6Clva2tgUC7qR6+ZevSQLuxmL2Yf5JAu7oRvfZdMkC7wou9qbyJQLvLBD3K5mtAu9N+PXY4q0C72/c+e5zwQLvkcT6S8xlAu+zqPpXAL0C79WQ+bxt7QLv93T62d0NAvAZWPr16F0C8DtA+10w5QLwXST5oCipAvB/DPo9yakC8KDw+dpqWQLwwtj7UXi5AvDkvPrHXi0C8Qak+uKTiQLxKIj6Uu9ZAvFKcPiYTVEC8WxU9EPDEQLxjj7vTuKVAvGwIvgTQZEC8dIK+Lp/bQLx8+76MvNdAvIV1vkajiEC8je69+2tX",
+        "resolution": null
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuYKwAAAABAu6ClOfAf8UC7qR45oBVLQLuxmDrcHUlAu7oROyAVTUC7wos71xyjQLvLBDxonv9Au9N+POEeC0C72/c9SVrxQLvkcT3+0mdAu+zqPp9h/kC79WQ+9FpeQLv93T8MO+JAvAZWPxStKEC8DtA/EzrwQLwXST8UPxdAvB/DPxEAmkC8KDw/FWtFQLwwtj8SLMdAvDkvPxC6j0C8Qak/DmI1QLxKIj8GcwNAvFKcPwMWg0C8WxU+7d1oQLxjjz6f2hBAvGwIPhUkL0C8dII9MZe/QLx8+zwCEVFAvIV1OtwdSUC8je4AAAAA",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.877415569138812,
+        "center_signal": 182.70048948179277,
+        "high_dac": 5.885110959920375,
+        "high_resolving_power": 1288.1975302633277,
+        "high_signal": 136.35322095382594,
+        "low_dac": 5.869720178357249,
+        "low_resolving_power": 1319.1488148651083,
+        "low_signal": 135.70013736776983,
+        "points": "QLuYKz4G96VAu6ClPh1OQUC7qR4/HsopQLuxmEASq+NAu7oRQPtif0C7wotCCQYeQLvLBEKc6WNAu9N+QwE3lkC72/dDJF/ZQLvkcUM1DqRAu+zqQzZIykC79WRDNparQLv93UM2m2pAvAZWQzZWTkC8DtBDNnq5QLwXSUM2VRZAvB/DQzYoS0C8KDxDNkHQQLwwtkM1us5AvDkvQzUc7kC8QalDMg5VQLxKIkMnvRtAvFKcQwmGEUC8WxVCpvUOQLxjj0IJdKRAvGwIQRWB50C8dII/3B5bQLx8+z5JvlVAvIV1vS+9t0C8je49V+hI",
+        "resolution": 270.80474321332656
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuYKzmSsN9Au6ClvJ3ziUC7qR697yOsQLuxmL3pS9ZAu7oRvVOWxUC7wou9gA9BQLvLBL3ENphAu9N+PM+YZ0C72/c9dHSFQLvkcbxq3ttAu+zqOsSRLUC79WS8f/Q2QLv93bwZ1YxAvAZWPApyEEC8DtC8vAQiQLwXSb3gSmdAvB/DvIMX+EC8KDy8r9NLQLwwtr2cUo5AvDkvvUZNXEC8Qam9EOAoQLxKIr10BmlAvFKcvNtFdUC8WxW+GhJWQLxjj7znAM5AvGwIvFUNsEC8dIK9i1/ZQLx8+7z/7sNAvIV1vT6+BkC8je6+Flxh",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
