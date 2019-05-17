@@ -1,0 +1,54 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuZpb4cPqdAu6Ieve0hoUC7qpi+T1asQLuzEb5gvF5Au7uLvc+IHUC7xAS9jtV3QLvMfrxN2K5Au9T3PgngTkC73XE+gEkSQLvl6j60oIFAu+5kPtS+OEC79t0+qk2SQLv/Vz7KSZVAvAfQPs4grkC8EEk+yk4nQLwYwz6XDBlAvCE8PuX/xEC8KbY+uWZhQLwyLz6YlO1AvDqpPui0/EC8QyI+vZJ5QLxLnD6UXXFAvFQVPjReUEC8XI889Xn2QLxlCL3tD2dAvG2CvbO1UUC8dfu+IkPLQLx+db4aAB9AvIbuvdfjMUC8j2e9wJNu",
+        "resolution": null
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuZpTmgFUtAu6IeOSAVS0C7qpg6SBqfQLuzETpwH/JAu7uLO2Yen0C7xAQ8CZJRQLvMfjyMEqxAu9T3PN/d4EC73XE9U/xgQLvl6j4Pg2lAu+5kPp4NzkC79t0+9SJ8QLv/Vz8M0fhAvAfQPxOA+0C8EEk/FbFQQLwYwz8RFJ1AvCE8PxMc60C8KbY/EKaMQLwyLz8QdIVAvDqpPxLC3kC8QyI/EaCyQLxLnD8Ja3VAvFQVPwEiOEC8XI8+6QSxQLxlCD6tN/pAvG2CPhZkXEC8dfs9ORjBQLx+dTvIGqNAvIbuOnAf8kC8j2cAAAAA",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.877565507958567,
+        "center_signal": 181.10034021410158,
+        "high_dac": 5.885290958860371,
+        "high_resolving_power": 1288.2369247681777,
+        "high_signal": 134.80719440286032,
+        "low_dac": 5.869840057056764,
+        "low_resolving_power": 1251.5129010561104,
+        "low_signal": 134.7860482233416,
+        "points": "QLuZpT30t39Au6IePntZREC7qpg/Ys7QQLuzEUBDW7VAu7uLQSXpukC7xARCBE/EQLvMfkKd8zJAu9T3QwLNPUC73XFDJIK/QLvl6kMx49FAu+5kQzTHvkC79t1DNORUQLv/V0M0/b1AvAfQQzUF/0C8EElDNRluQLwYw0M0+DRAvCE8QzTdZkC8KbZDNIGWQLwyL0M0WhVAvDqpQzOx/EC8QyJDMItYQLxLnEMmarZAvFQVQwf4VkC8XI9CpYd4QLxlCEIIqKFAvG2CQRMHKEC8dfs/2XyMQLx+dT49Uk5AvIbuu94Z9kC8j2c9kNpX",
+        "resolution": 267.8397432393902
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuZpb3aFJdAu6Ievl32bEC7qpg9aha0QLuzEb1h4hdAu7uLvWip30C7xAS8/ERBQLvMfryofhNAu9T3vihLgEC73XG96rGrQLvl6r3yk41Au+5kvQhxqEC79t29cV4yQLv/V70NZJxAvAfQvU8lEkC8EEk9hX0uQLwYwz1hmmJAvCE8vaNgSEC8KbY7oKFoQLwyL72Wb8ZAvDqpu6ufkkC8QyK8Ys3DQLxLnL0qoKpAvFQVvZ7dVEC8XI+8yKo/QLxlCL3ivhpAvG2CvQQLd0C8dfu9GPx+QLx+db4KIMdAvIbuvd2zf0C8j2e9GTcl",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
