@@ -1,0 +1,54 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLufyr4CJENAu6hDvi4mSUC7sL2+VwdjQLu5Nr5DqNlAu8GwvV+jS0C7yim93YlyQLvSo7ynEq9Au9scvAFul0C745U9zQn2QLvsDz5AXjFAu/SIPi/QX0C7/QI+QD+/QLwFez4f88lAvA31PfnLIUC8Fm497cowQLwe6D3bgyhAvCdhPfj8O0C8L9s+Q0glQLw4VD3QS3RAvEDOPjp4FUC8SUc9voTdQLxRwT3+20xAvFo6uG0FYEC8YrS9B8DvQLxrLb4Lj1pAvHOmvkMBuUC8fCC+GsKsQLyEmb6BjZNAvI0TvjZCBkC8lYy+Of9M",
+        "resolution": null
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLufygAAAABAu6hDOSAVS0C7sL05oBVLQLu5NjrwH/NAu8GwO1Ib9UC7yik74R34QLvSozxyoFVAu9scPKtW2UC745U9KXanQLvsDz3e7gtAu/SIPmUHSUC7/QI+qj+NQLwFez7I9/5AvA31PtRhqUC8Fm4+2bJwQLwe6D7Q8ShAvCdhPtb2CUC8L9s+zkjFQLw4VD7S5XFAvEDOPtHhS0C8SUc+zTCcQLxRwT7H89hAvFo6PrqB5UC8YrQ+nzn5QLxrLT5hHrxAvHOmPb0pcUC8fCA8wJmxQLyEmTs+GUxAvI0TOnAf8kC8lYwAAAAA",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.878014902339482,
+        "center_signal": 112.13708197546502,
+        "high_dac": 5.885740353241284,
+        "high_resolving_power": 1271.5971585573363,
+        "high_signal": 83.65879929507214,
+        "low_dac": 5.870289451437678,
+        "low_resolving_power": 1235.759255808989,
+        "low_signal": 82.51271445995995,
+        "points": "QLufyj4LopJAu6hDPmktfkC7sL0/QJbAQLu5NkA3kLZAu8GwQRpCOEC7yilB1pzrQLvSo0Jj/ohAu9scQq/Uk0C745VC0rikQLvsD0LdyJhAu/SIQt+pfUC7/QJC4B9vQLwFe0Lf0fFAvA31QuAwREC8Fm5C4EF7QLwe6ELgPW5AvCdhQt/dr0C8L9tC38NGQLw4VELf+k9AvEDOQt4QZkC8SUdC2FfKQLxRwULFiARAvFo6QpiZI0C8YrRCLBnxQLxrLUF9akRAvHOmQGqyEUC8fCA/DyKUQLyEmT2Bil5AvI0Tu3tQMUC8lYw9D+FH",
+        "resolution": 267.1269978385596
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLufyr2vZhNAu6hDvKYEgkC7sL291MOHQLu5Nr2YeZVAu8GwvZSau0C7yim8oZ4qQLvSo71plG9Au9scvd9UBEC745W+AUAQQLvsDz0/S6hAu/SIvJ4ieEC7/QI9AA4GQLwFe74LbCNAvA31vSywhEC8Fm68DP/9QLwe6L3DOotAvCdhvfSMAkC8L9s9GsoxQLw4VL1RzVlAvEDOvIgioEC8SUe9xGtaQLxRwb10TMdAvFo6vPN3z0C8YrS9IjJQQLxrLb1tSmlAvHOmvW3umkC8fCC9HEkXQLyEmb3OCS1AvI0TvbtCpEC8lYy+CUq2",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
